@@ -7,7 +7,7 @@ For visual tracking practioners and researchers. As Python version of the [bench
 python converter.py
 ```
 
-
+Please make sure you are using python2 and installed `scipy`, otherwise you may also modify `converter.py` to meet your needs.
 
 `benchmark_py` and `benchmark_mat` are placeholders and not executable if you do not configure them. Please download and configure
 them from the corresponding urls:
